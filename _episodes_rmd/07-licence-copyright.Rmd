@@ -1,0 +1,46 @@
+---
+title: "버전제어, 협업, 그리고 저작권과 라이선스 - 4월13일"
+teaching: 180
+exercises: 0
+questions:
+- "버젼 제어가 무엇이고, 왜 버젼제어를 사용해야 하는가?"
+- "데이터 과학자가 알아야 하는 법규준수는 무엇인가?"
+- "버전 제어를 사용해서 어떻게 다른 분들과 협업할 수 있을까요?"
+- "버전 제어가 나의 작업을 어떻게 더 공개될 수 있도록 도울까?"
+objectives:
+- "자동화된 버젼제어 시스템 장점을 이해한다."
+- "Git 동작방법 기본을 이해한다."
+- "원격 저장소를 클론하고, 공동 저장소에 푸시해서 협업한다."
+- "기본적인 협업 작업흐름을 기술한다."
+- "컴퓨터 작업에서 버젼제어 시스템이 전자연구노트로 영향력을 어떻게 발휘될 수 있는지 설명한다."
+keypoints:
+- "버전 제어는 무한정 ‘실행취소(undo)’하는 것과 같다."
+- "버전 제어는 많은 분들이 병렬로 작업하는 것도 가능하게 한다."
+- "공개 과학 작업은 폐쇄적인 과학 작업보다 더 유용하고 더 많이 인용된다."
+source: Rmd
+---
+
+```{r, include=FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("07-")
+
+```
+
+# [R 저작권과 라이선스(license)](https://statkclee.github.io/data-science/ds-r-license.html)
+
+# 버전제어와 협업
+
+- [Git으로 버전제어, GitHub으로 협업](https://statkclee.github.io/git-novice-kr/)
+    - [Git으로 버전제어 - 공개 과학 (Open Science)](https://statkclee.github.io/git-novice-kr/10-open/index.html)
+    - [Git으로 버전제어 - 라이선싱 (Licensing)](https://statkclee.github.io/git-novice-kr/11-licensing/index.html)
+    - [Git으로 버전제어 - Citation](https://statkclee.github.io/git-novice-kr/12-citation/index.html)
+
+# [비즈니스를 위한 오픈 소스 소프트웨어](http://statkclee.github.io/open-source-for-business/)
+
+- [컴퓨터 소프트웨어 과외](http://statkclee.github.io/open-source-for-business/ch02-tutorial-on-computer-software.html)
+
+# 컴퓨터 하드웨어 제대로 이해하기
+
+- [오픈 하드웨어(라즈베리 파이)](http://statkclee.github.io/raspberry-pi)
+    - [$100 오픈 컴퓨터](https://statkclee.github.io/one-page/)   
+    - [$100 오픈 슈퍼컴퓨터](https://statkclee.github.io/hpc/)

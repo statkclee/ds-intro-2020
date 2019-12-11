@@ -1,0 +1,20 @@
+---
+title: "데이터 과학 제품 - `shiny` - 5월25일"
+teaching: 180
+exercises: 0
+questions:
+- "웹앱 제품은 어떻게 개발하는가?"
+objectives:
+- ""
+keypoints:
+- ""
+source: Rmd
+---
+
+```{r, include=FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("15-")
+```
+
+## 
+

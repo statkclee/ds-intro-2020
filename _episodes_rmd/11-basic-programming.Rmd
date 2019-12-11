@@ -1,0 +1,103 @@
+---
+title: "데이터 과학 프로그래밍 - 5월11일"
+teaching: 180
+exercises: 0
+questions:
+- "CLI와 GUI 데이터 과학은 어떻게 다른가"
+- "R로 데이터 의존적인 선택을 강제하는 방법은 무엇인가?"
+- "R로 어떻게 하면 연산작업을 반복할 수 있을까?"
+- "재귀(recusion)란 무엇일까?"
+objectives:
+- "`if` 와 `else` 를 갖는 조건문을 작성한다."
+- "`for` 루프를 이해하고 작성한다."
+- "재귀(recusion)를 활용하여 코드를 간결히 한다."
+keypoints:
+- "`if` 와 `else` 를 사용하여 선택을 한다."
+- "`for` 루프를 사용하여 연산작업을 반복한다."
+- "문제를 나누어서 정복하는 재귀(recusion) 기법을 이해한다."
+source: Rmd
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r, include=FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("08-")
+# Silently load in the data so the rest of the lesson works
+gapminder <- read.csv("data/gapminder_data.csv", header = TRUE)
+```
+
+
+## 소프트웨어 카펜트리 - 제어(Control flow)
+
+[재현가능한 과학적 분석을 위한 R - "제어 흐름"](https://statkclee.github.io/r-gapminder-kr/07-control-flow/index.html)
+
+## R 재귀 함수 [^r-recursive]
+
+### 계승(factorial)
+
+계승을 산술적으로 표현하면 다음과 같다.
+
+$5! = 1 \times 2 \times 3 \times 4 \times 5 = 120$
+
+이를 대수적으로 표현하면 다음과 같이 표현할 수 있다.
+
+$n! = n \times (n-1)!$
+
+[^r-recursive]: [https://www.datamentor.io, "R Recursive Function"](https://www.datamentor.io/r-programming/recursion/)
+
+
+```{r basic-programming-factorial}
+factorial <- function(n) {
+  if(n==0) {
+    return(1)
+  } else {
+    return(n * factorial(n-1))
+  }
+}
+
+factorial(5)
+```
+
+### 퀵정렬 (quick sort) [^quick-sort-recursion]
+
+[^quick-sort-recursion]: [Jason A. French Northwestern University, "Recursion in R"](http://www.jason-french.com/blog/2014/07/26/recursion-in-r/)
+
+재귀는 때때로 이해하기 어려운 것으로 기술된다. 이 말을 믿지 마세요. 루프를 이해하면, 재귀도 이해할 수 있다.
+
+**재귀**는 본인과 유사한 방식으로 항목을 반복 수행하는 과정(process)이다. 컴퓨터 프로그램에 대해서, 루프처럼 반복되는 명령어를 의미한다. 그리고, 루프에서처럼, 영원히 꼼짝 못하게 되고 싶지는 않을 것이다.
+
+```{r basic-programming-factorial-while}
+# Author:  Jason A. French
+
+quick_sort <- function(vect) {
+  # Args:
+  #  vect: Numeric Vector
+  
+  # Stop if vector has length of 1
+  if (length(vect) <= 1) {
+      return(vect)
+  }
+  # Pick a random element from the vector
+  random_index <- sample(1:length(vect), 1)
+  element      <- vect[random_index]
+  partition    <- vect[-random_index]
+  # Reorder vector so that integers less than element
+  # come before, and all integers greater come after.
+  v1 <- partition[partition < element]
+  v2 <- partition[partition >= element]
+  # Recursively apply steps to smaller vectors.
+  v1 <- quick_sort(v1)
+  v2 <- quick_sort(v2)
+  # cat("element:", element, "v1:", v1, "v2:", v2, "\n")
+  return(c(v1, element, v2))
+}
+
+unsorted_vec <- c(4, 65, 2, -31, 0, 99, 83, 782, 1)
+quick_sort(unsorted_vec)
+```
+
+
+[Wikipedia, "Sorting quicksort anim.gif"](https://en.wikipedia.org/wiki/File:Sorting_quicksort_anim.gif)
+
+<img src="../fig/Sorting_quicksort_anim.gif" alt="퀵정렬" width="57%" />

@@ -1,0 +1,13 @@
+---
+title: "기말고사 - 6월22일"
+teaching: 180
+exercises: 0
+questions:
+- "--------------------------------------"
+objectives:
+- ""
+keypoints:
+- ""
+source: Rmd
+---
+
