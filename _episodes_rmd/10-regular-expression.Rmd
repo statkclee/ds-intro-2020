@@ -33,6 +33,12 @@ knitr_fig_path("10-")
 > - Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems.
 > - Whenever faced with a problem, some people say "Lets use AWK." Now, they have two problems. — D. Tilbrook
 
+## 정규표현식 자주 사용하는 패턴
+
+- [정규표현식(Regular Expression) - `R`](https://statkclee.github.io/nlp2/regex-index.html)
+    - `glue` 팩키지와 결합하여 다양한 활용사례를 만들 수 있음
+    - [`stringdist`](https://github.com/markvanderloo/stringdist) 팩키지와 결합하여 오탈자 자동정정 및 화자 의도를 파악하는데 도움을 받을 수 있다.
+
 ## 정규표현식 학습교재
 
 - 도서관 카펜트리 

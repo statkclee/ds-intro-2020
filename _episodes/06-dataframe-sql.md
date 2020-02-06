@@ -825,7 +825,14 @@ library(tidyverse)
 
 
 ~~~
-─ Attaching packages ───────────────── tidyverse 1.2.1 ─
+Warning: 패키지 'tidyverse'는 R 버전 3.5.2에서 작성되었습니다
+~~~
+{: .error}
+
+
+
+~~~
+─ Attaching packages ──────────────────── tidyverse 1.3.0 ─
 ~~~
 {: .output}
 
@@ -833,7 +840,7 @@ library(tidyverse)
 
 ~~~
 ✔ tibble  2.1.3     ✔ purrr   0.3.3
-✔ tidyr   1.0.0     ✔ dplyr   0.8.3
+✔ tidyr   1.0.2     ✔ dplyr   0.8.4
 ✔ readr   1.3.1     ✔ forcats 0.4.0
 ~~~
 {: .output}
@@ -876,7 +883,7 @@ Warning: 패키지 'forcats'는 R 버전 3.5.2에서 작성되었습니다
 
 
 ~~~
-─ Conflicts ─────────────────── tidyverse_conflicts() ─
+─ Conflicts ───────────────────── tidyverse_conflicts() ─
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
 ~~~
@@ -930,7 +937,7 @@ mtcars_db %>%
 
 ~~~
 # Source:   lazy query [?? x 11]
-# Database: sqlite 3.22.0 [:memory:]
+# Database: sqlite 3.30.1 [:memory:]
      mpg   cyl  disp    hp  drat    wt  qsec    vs    am  gear  carb
    <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl>
  1  21       6 160     110  3.9   2.62  16.5     0     1     4     4
@@ -958,7 +965,7 @@ dbplyr::src_dbi(con)
 
 
 ~~~
-src:  sqlite 3.22.0 [:memory:]
+src:  sqlite 3.30.1 [:memory:]
 tbls: mtcars, sqlite_stat1, sqlite_stat4
 ~~~
 {: .output}
@@ -974,7 +981,7 @@ tbl(con, sql("SELECT mpg, cyl, vs, am FROM mtcars WHERE mpg > 20"))
 
 ~~~
 # Source:   SQL [?? x 4]
-# Database: sqlite 3.22.0 [:memory:]
+# Database: sqlite 3.30.1 [:memory:]
      mpg   cyl    vs    am
    <dbl> <dbl> <dbl> <dbl>
  1  21       6     0     1
@@ -1090,7 +1097,7 @@ src_dbi(mammals)
 
 
 ~~~
-src:  sqlite 3.22.0 [/Users/statkclee/swc/ds-intro-2020/data/portal_mammals.sqlite]
+src:  sqlite 3.30.1 [/Users/statkclee/swc/ds-intro-2020/data/portal_mammals.sqlite]
 tbls: plots, species, surveys
 ~~~
 {: .output}
@@ -1124,7 +1131,7 @@ tbl(mammals, sql("SELECT year, species_id, plot_id FROM surveys"))
 
 ~~~
 # Source:   SQL [?? x 3]
-# Database: sqlite 3.22.0
+# Database: sqlite 3.30.1
 #   [/Users/statkclee/swc/ds-intro-2020/data/portal_mammals.sqlite]
     year species_id plot_id
    <int> <chr>        <int>
@@ -1164,7 +1171,7 @@ surveys %>%
 
 ~~~
 # Source:   lazy query [?? x 3]
-# Database: sqlite 3.22.0
+# Database: sqlite 3.30.1
 #   [/Users/statkclee/swc/ds-intro-2020/data/portal_mammals.sqlite]
     year species_id plot_id
    <int> <chr>        <int>
@@ -1196,21 +1203,20 @@ head(surveys, n = 10)
 
 ~~~
 # Source:   lazy query [?? x 9]
-# Database: sqlite 3.22.0
+# Database: sqlite 3.30.1
 #   [/Users/statkclee/swc/ds-intro-2020/data/portal_mammals.sqlite]
-   record_id month   day  year plot_id species_id sex   hindfoot_length
-       <int> <int> <int> <int>   <int> <chr>      <chr>           <int>
- 1         1     7    16  1977       2 NL         M                  32
- 2         2     7    16  1977       3 NL         M                  33
- 3         3     7    16  1977       2 DM         F                  37
- 4         4     7    16  1977       7 DM         M                  36
- 5         5     7    16  1977       3 DM         M                  35
- 6         6     7    16  1977       1 PF         M                  14
- 7         7     7    16  1977       2 PE         F                  NA
- 8         8     7    16  1977       1 DM         M                  37
- 9         9     7    16  1977       1 DM         F                  34
-10        10     7    16  1977       6 PF         F                  20
-# … with 1 more variable: weight <int>
+   record_id month   day  year plot_id species_id sex   hindfoot_length weight
+       <int> <int> <int> <int>   <int> <chr>      <chr>           <int>  <int>
+ 1         1     7    16  1977       2 NL         M                  32     NA
+ 2         2     7    16  1977       3 NL         M                  33     NA
+ 3         3     7    16  1977       2 DM         F                  37     NA
+ 4         4     7    16  1977       7 DM         M                  36     NA
+ 5         5     7    16  1977       3 DM         M                  35     NA
+ 6         6     7    16  1977       1 PF         M                  14     NA
+ 7         7     7    16  1977       2 PE         F                  NA     NA
+ 8         8     7    16  1977       1 DM         M                  37     NA
+ 9         9     7    16  1977       1 DM         F                  34     NA
+10        10     7    16  1977       6 PF         F                  20     NA
 ~~~
 {: .output}
 
@@ -1326,7 +1332,7 @@ surveys %>%
 
 ~~~
 # Source:   lazy query [?? x 3]
-# Database: sqlite 3.22.0
+# Database: sqlite 3.30.1
 #   [/Users/statkclee/swc/ds-intro-2020/data/portal_mammals.sqlite]
    species_id sex   weight
    <chr>      <chr>  <int>
@@ -1394,7 +1400,7 @@ data_subset %>%
 
 ~~~
 # Source:   lazy query [?? x 2]
-# Database: sqlite 3.22.0
+# Database: sqlite 3.30.1
 #   [/Users/statkclee/swc/ds-intro-2020/data/portal_mammals.sqlite]
    species_id weight
    <chr>       <int>
@@ -1466,7 +1472,7 @@ plots
 
 ~~~
 # Source:   table<plots> [?? x 2]
-# Database: sqlite 3.22.0
+# Database: sqlite 3.30.1
 #   [/Users/statkclee/swc/ds-intro-2020/data/portal_mammals.sqlite]
    plot_id plot_type                
      <int> <chr>                    
@@ -1496,21 +1502,21 @@ surveys
 
 ~~~
 # Source:   table<surveys> [?? x 9]
-# Database: sqlite 3.22.0
+# Database: sqlite 3.30.1
 #   [/Users/statkclee/swc/ds-intro-2020/data/portal_mammals.sqlite]
-   record_id month   day  year plot_id species_id sex   hindfoot_length
-       <int> <int> <int> <int>   <int> <chr>      <chr>           <int>
- 1         1     7    16  1977       2 NL         M                  32
- 2         2     7    16  1977       3 NL         M                  33
- 3         3     7    16  1977       2 DM         F                  37
- 4         4     7    16  1977       7 DM         M                  36
- 5         5     7    16  1977       3 DM         M                  35
- 6         6     7    16  1977       1 PF         M                  14
- 7         7     7    16  1977       2 PE         F                  NA
- 8         8     7    16  1977       1 DM         M                  37
- 9         9     7    16  1977       1 DM         F                  34
-10        10     7    16  1977       6 PF         F                  20
-# … with more rows, and 1 more variable: weight <int>
+   record_id month   day  year plot_id species_id sex   hindfoot_length weight
+       <int> <int> <int> <int>   <int> <chr>      <chr>           <int>  <int>
+ 1         1     7    16  1977       2 NL         M                  32     NA
+ 2         2     7    16  1977       3 NL         M                  33     NA
+ 3         3     7    16  1977       2 DM         F                  37     NA
+ 4         4     7    16  1977       7 DM         M                  36     NA
+ 5         5     7    16  1977       3 DM         M                  35     NA
+ 6         6     7    16  1977       1 PF         M                  14     NA
+ 7         7     7    16  1977       2 PE         F                  NA     NA
+ 8         8     7    16  1977       1 DM         M                  37     NA
+ 9         9     7    16  1977       1 DM         F                  34     NA
+10        10     7    16  1977       6 PF         F                  20     NA
+# … with more rows
 ~~~
 {: .output}
 
@@ -1643,7 +1649,7 @@ Joining, by = "plot_id"
 > 
 > ~~~
 > # Source:   SQL [?? x 3]
-> # Database: sqlite 3.22.0
+> # Database: sqlite 3.30.1
 > #   [/Users/statkclee/swc/ds-intro-2020/data/portal_mammals.sqlite]
 >     year taxa   count
 >    <int> <chr>  <int>
