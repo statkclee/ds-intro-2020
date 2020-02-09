@@ -6,14 +6,17 @@ questions:
 - "데이터 과학이란 무언인가?"
 - "왜 엑셀 해방운동을 펼치는가?"
 - "왜 GUI는 데이터 과학의 미래가 될 수 없는가?"
+- "데이터 과학 블로그를 만들기 정말 어렵습니까?"
 objectives:
 - "데이터 과학을 이해한다."
 - "엑셀(스프레드쉬트)의 장단점을 살펴본다."
 - "CLI와 GUI 활용분야를 파악한다."
+- "개인 블로그를 구축한다."
 keypoints:
 - "데이터 과학을 이해한다."
 - "스프레드쉬트의 한계를 명확히 한다."
 - "데이터 과학의 현재 위치를 살펴본다."
+- "개인 데이터 과학 블로그를 생성한다."
 source: Rmd
 ---
 
@@ -23,7 +26,7 @@ knitr_fig_path("01-")
 ```
 
 
-## 동기 모티브 {#data-science}
+## 왜 데이터 과학일까? {#data-science}
 
 과학은 다단계 과정이다: 실험을 설계하고 데이터를 수집하게 되면, 실제로 재미난 일이 시작된다.
 이번 학습을 통해서 데이터 과학 양대 언어 중 하나인 R과 통합개발환경(IDE) RStudio를 사용해서 이런 과정을 시작하는 방법을 학습할 것이다.
@@ -31,7 +34,10 @@ knitr_fig_path("01-")
 세월에 따른 국가별 인구 정보를 담고 있는 [gapminder.org](https://www.gapminder.org)로부터 나온 데이터셋을 비롯하여 다양한 저장소에서 
 데이터를 추출하여 데이터를 이해하고, 탐색하고, 추론하고, 모형형화하고, 커뮤니케이션 및 제품과 서비스 개발하는 전체 과정을 Hands-on으로 실습하여 체화해 나간다.
 
-## 데이터 사이언스(Data Science) {#data-science-intro}
+- [구글 데이터 과학 검색결과](https://www.google.com/search?q=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EA%B3%BC%ED%95%99&oq=%EB%8D%B0%EC%9D%B4%ED%84%B0+%EA%B3%BC%ED%95%99&aqs=chrome..69i57j0l4j69i61l3.1771j0j7&sourceid=chrome&ie=UTF-8)
+- [데이터 경제와 산업을 위한 데이터 과학/공학과 교육](https://statkclee.github.io/ds-authoring/ds-data-industry.html)
+
+## 데이터 과학(Data Science) {#data-science-intro}
 
 [빅데이터를 넘은 데이터 과학 Tidyverse로 향하다](https://statkclee.github.io/ds-authoring/ds_maso_tidyverse.html)
 
@@ -67,6 +73,11 @@ knitr_fig_path("01-")
 
 ## R과 RStudio 소개
 
-[재현가능한 과학적 분석을 위한 R - "R과 RStudio 소개""](https://statkclee.github.io/r-gapminder-kr/01-rstudio-intro/index.html)
+[재현가능한 과학적 분석을 위한 R - "R과 RStudio 소개"](https://statkclee.github.io/r-gapminder-kr/01-rstudio-intro/index.html)
 
+
+## 데이터 과학 블로그(blog)
+
+- [데이터 과학을 위한 저작도구: Computational Documents
+블로그 - `blogdown`](https://statkclee.github.io/comp_document/ds-blogdown.html)
 
