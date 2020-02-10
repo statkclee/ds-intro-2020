@@ -1,0 +1,32 @@
+---
+title: "데이터 가져오기(Data Ingestion) - 3월23일"
+teaching: 180
+exercises: 0
+questions:
+- "데이터 과학을 위한 원자재 데이터에는 어떤 것이 있을까?"
+- "탐색적 데이터 분석을 위해 다양한 데이터를 어떻게 가져오는가?"
+- "최근 회자되는 인공지능용 데이터는 어떻게 정의되고 가져와서 가치를 만들 수 있을까?"
+objectives:
+- "데이터 과학 원자재인 데이터에 대해 알아본다."
+- "다양한 데이터를 모형개발과 시각화를 위해 가져오는(Ingest) 방법을 살펴본다."
+- "전통(?) 데이터와 인공지능 데이터에 대해 차이점을 이해한다."
+keypoints:
+- ""
+source: Rmd
+---
+
+```{r, include=FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("06-")
+```
+
+
+# [데이터 가져오기](https://statkclee.github.io/ingest-data/)
+
+- [정형 데이터, RDBMS](https://statkclee.github.io/data-science/)
+- SNS 데이터
+- 반정형 - 웹 데이터(JSON)
+- 문서 데이터(PDF)
+- `fs`, `pins`
+    
+# [웹크롤링 강의노트 2019](../data/R_Web_Crawling.pdf)
