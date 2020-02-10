@@ -20,6 +20,12 @@ root: .
 
 ![](fig/DataCamp-50px.png)
 
+## 과정 수료 후 기대되는 Skill Set 
+
+- [Tidyverse Korea, "코딩으로 글쓰는 슬기로운 탐구생활", KCD(Korea Community Day) 2020](https://statkclee.github.io/ds-authoring/ds-rmarkdown-driven-development.html)
+    - [KCD(Korea Community Day) 2020](https://kcd2020.festa.io/), 2월 29일(토) 오전 10시~, 한국마이크로소프트 11층(더케이트윈타워 A동)
+
+
 ## 인터랙티브 강의노트
 
 - [3월02일](): 팀구성/프로젝트
