@@ -1,5 +1,5 @@
 ---
-title: "버전제어, 협업, 그리고 저작권과 라이선스 - 4월13일"
+title: "버전제어, 협업, 그리고 저작권과 라이선스 - 4월27일"
 teaching: 180
 exercises: 0
 questions:

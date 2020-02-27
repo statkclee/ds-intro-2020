@@ -1,5 +1,5 @@
 ---
-title: "데이터프레임과 SQL - 4월06일"
+title: "데이터프레임과 SQL - 4월20일"
 teaching: 180
 exercises: 0
 questions:
