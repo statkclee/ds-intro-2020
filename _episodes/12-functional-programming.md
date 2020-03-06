@@ -32,6 +32,10 @@ source: Rmd
 1. 함수작성 사례
 1. 무명함수(lambda function)와 매퍼(mapper)
 
+## 반복 
+
+- [데이터 과학 기본 프로그래밍](https://statkclee.github.io/parallel-r/programming-ds-basic.html)
+
 ## 함수형 프로그래밍 [^functional-programming]
 
 [^functional-programming]: [함수형 프로그래밍(Functional Programming)](https://statkclee.github.io/parallel-r/ds-fp.html)
@@ -39,6 +43,10 @@ source: Rmd
 1. 함수형 프로그래밍
 1. `Map()`, `Reduce()` 함수와 `*apply()` 함수 가족
 1. purrr 팩키지
+
+## Split-Apply-Combine 전략
+
+- [분할-적용-병합(Split-Apply-Combine) 전략](https://statkclee.github.io/parallel-r/r-parallel-split-apply-combine.html)
 
 ## 함수형 프로그래밍을 활용한 데이터 분석 - [`krvotes`](https://github.com/statkclee/krvotes)
 
@@ -54,3 +62,5 @@ source: Rmd
 ### 데이터 분석방법
 
 - [README.md](https://github.com/statkclee/krvotes/blob/master/README.md)
+
+---
