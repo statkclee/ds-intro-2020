@@ -30,8 +30,8 @@ root: .
 
 - 3월02일: 코로나19 개강 연기 
 - 3월09일: 코로나19 개강 연기
-- [3월16일](https://docs.google.com/document/d/1eqZk1-sBkqzINi9Kd-0Yap1I9GFTwAinCKSOXOe4CxM): 팀구성/프로젝트
-- [3월23일]()
+- [3월16일](https://docs.google.com/document/d/1eqZk1-sBkqzINi9Kd-0Yap1I9GFTwAinCKSOXOe4CxM): 첫강의
+- [3월23일](https://docs.google.com/document/d/1IbfdFfWaXVf3upWVLddphcERNlP7A_jIIwtzrRtKBK4/edit?usp=sharing): 팀구성/프로젝트
 - [3월30일]()
 - [4월06일]()
 - [4월13일]()
