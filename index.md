@@ -33,7 +33,7 @@ root: .
 - [3월16일](https://docs.google.com/document/d/1eqZk1-sBkqzINi9Kd-0Yap1I9GFTwAinCKSOXOe4CxM): 첫강의
 - [3월23일](https://docs.google.com/document/d/1IbfdFfWaXVf3upWVLddphcERNlP7A_jIIwtzrRtKBK4/edit?usp=sharing): 팀구성/프로젝트
 - [3월30일](https://hackmd.io/h_ziyY9-Q_WTvheQjUzM9w): 수강생 명단최종 확정!
-- [4월06일]()
+- [4월06일](https://hackmd.io/LtuYdeKnRHiWo5Wuuz9ptQ)
 - [4월13일]()
 - [4월20일]()
 - [4월27일]()
@@ -47,6 +47,17 @@ root: .
 - [6월22일]()
 - [3월02일](): 팀구성/프로젝트
 - [3월09일]()
+
+## 프로젝트
+
+- [코뿔소(코로나에 뿔난 소시민)](https://github.com/unks96/rhino)
+    - [이재상](https://github.com/jaesanglee95), [정권상](https://github.com/unks96), [손지우](https://github.com/SonJiwoo), [서경덕](https://github.com/Gyeongdeok), [이현탁](https://github.com/11aw1iet)
+- 사응일간
+    - [강동원](https://github.com/dw3624), [백원희](https://github.com/Wonhee-baek), [오태환](https://github.com/dhxoghks95), [유건욱](https://github.com/YooGunwook), [이청파](https://github.com/leechungpa)
+- 가팀
+    - [손지현](https://github.com/twg12), [이시우](https://github.com/SeewooLi), [서아론](https://github.com/arnsu0820), [박경재](https://github.com/Hankpkj), [정윤호](https://github.com/YoonHoJeong)
+- 나팀
+    - [이형선](https://github.com/traceofpassion), [김채형](https://github.com//cheris8), [조유림](https://github.com//whdbfla6), [주용우](https://github.com/whoareyouwhoami), [양정열](https://github.com/passionyang16)
 
 > ## 선수과목
 >
