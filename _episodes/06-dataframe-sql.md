@@ -839,11 +839,19 @@ Warning: 패키지 'tidyverse'는 R 버전 3.5.2에서 작성되었습니다
 
 
 ~~~
-✔ tibble  2.1.3     ✔ purrr   0.3.3
-✔ tidyr   1.0.2     ✔ dplyr   0.8.4
-✔ readr   1.3.1     ✔ forcats 0.4.0
+✔ ggplot2 3.2.1     ✔ purrr   0.3.3
+✔ tibble  2.1.3     ✔ dplyr   0.8.4
+✔ tidyr   1.0.2     ✔ forcats 0.4.0
+✔ readr   1.3.1     
 ~~~
 {: .output}
+
+
+
+~~~
+Warning: 패키지 'ggplot2'는 R 버전 3.5.2에서 작성되었습니다
+~~~
+{: .error}
 
 
 

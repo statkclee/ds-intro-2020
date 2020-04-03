@@ -27,5 +27,6 @@ source: Rmd
 - 반정형 - 웹 데이터(JSON)
 - 문서 데이터(PDF)
 - `fs`, `pins`
+- 실습: [대한민국 제21대 국회의원 선거 - 매니페스토: 국회의원평가](https://statkclee.github.io/election/election-manifesto.html)
     
 # [웹크롤링 강의노트 2019](../data/R_Web_Crawling.pdf)
