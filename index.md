@@ -35,7 +35,7 @@ root: .
 - [3월30일](https://hackmd.io/h_ziyY9-Q_WTvheQjUzM9w)
 - [4월06일](https://hackmd.io/LtuYdeKnRHiWo5Wuuz9ptQ): 수강생 명단최종 확정!
 - [4월13일](https://hackmd.io/TwLuRMpuTr6lafAwgiK3Ng)
-- [4월20일]()
+- [4월20일](https://hackmd.io/31gLI31XS2aLpJ42O5_ZxA): H/W 개인 블로그 제작
 - [4월27일]()
 - [5월04일]()
 - [5월11일]()
