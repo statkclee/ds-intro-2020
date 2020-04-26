@@ -56,7 +56,7 @@ root: .
     - [강동원](https://github.com/dw3624), [백원희](https://github.com/Wonhee-baek), [오태환](https://github.com/dhxoghks95), [유건욱](https://github.com/YooGunwook), [이청파](https://github.com/leechungpa)
 - 가팀
     - [손지현](https://github.com/twg12), [이시우](https://github.com/SeewooLi), [서아론](https://github.com/arnsu0820), [박경재](https://github.com/Hankpkj), [정윤호](https://github.com/YoonHoJeong), 조병준
-- 나팀
+- [Project Casa](https://github.com/whoareyouwhoami/ProjectCasa)
     - [이형선](https://github.com/traceofpassion), [김채형](https://github.com//cheris8), [조유림](https://github.com//whdbfla6), [주용우](https://github.com/whoareyouwhoami), [양정열](https://github.com/passionyang16)
 
 > ## 선수과목
