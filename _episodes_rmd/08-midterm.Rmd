@@ -20,4 +20,8 @@ knitr_fig_path("05-")
 
 - [김영삼 (2018-10-23), "강화학습을 자연어 처리에 이용할 수 있을까? (보상의 희소성 문제와 그 방안)"](https://www.youtube.com/watch?reload=9&v=8SCzCkkeymA)
 - [강화학습을 활용한 감정분석 연구방법론](https://www.fastcampus.co.kr/data_camp_resch/)
-- ...
+
+
+### 강의자료
+
+- [전산언어학 소개: 기본 개념, 역사, 현재, 그리고 미래](../data/연세대_특강자료.pdf)

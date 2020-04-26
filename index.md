@@ -37,7 +37,7 @@ root: .
 - [4월13일](https://hackmd.io/TwLuRMpuTr6lafAwgiK3Ng)
 - [4월20일](https://hackmd.io/31gLI31XS2aLpJ42O5_ZxA): H/W 개인 블로그 제작
 - [4월27일](https://hackmd.io/egpwvBybQ5GR0tWS-BqFCQ): 논문 및 데이터 과학 제품 공유
-- [5월04일]()
+- [5월04일](https://hackmd.io/Sxow-6j7SFalYFlG5iz_XA): NLP 특강자료 업로드됨!!!
 - [5월11일]()
 - [5월18일]()
 - [5월25일]()

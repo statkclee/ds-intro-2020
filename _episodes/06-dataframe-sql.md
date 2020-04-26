@@ -839,10 +839,10 @@ Warning: 패키지 'tidyverse'는 R 버전 3.5.2에서 작성되었습니다
 
 
 ~~~
-✔ ggplot2 3.2.1     ✔ purrr   0.3.3
-✔ tibble  2.1.3     ✔ dplyr   0.8.4
-✔ tidyr   1.0.2     ✔ forcats 0.4.0
-✔ readr   1.3.1     
+✔ ggplot2 3.2.1           ✔ purrr   0.3.3      
+✔ tibble  3.0.0           ✔ dplyr   0.8.99.9002
+✔ tidyr   1.0.2           ✔ forcats 0.4.0      
+✔ readr   1.3.1           
 ~~~
 {: .output}
 
@@ -850,13 +850,6 @@ Warning: 패키지 'tidyverse'는 R 버전 3.5.2에서 작성되었습니다
 
 ~~~
 Warning: 패키지 'ggplot2'는 R 버전 3.5.2에서 작성되었습니다
-~~~
-{: .error}
-
-
-
-~~~
-Warning: 패키지 'tibble'는 R 버전 3.5.2에서 작성되었습니다
 ~~~
 {: .error}
 
@@ -871,13 +864,6 @@ Warning: 패키지 'tidyr'는 R 버전 3.5.2에서 작성되었습니다
 
 ~~~
 Warning: 패키지 'purrr'는 R 버전 3.5.2에서 작성되었습니다
-~~~
-{: .error}
-
-
-
-~~~
-Warning: 패키지 'dplyr'는 R 버전 3.5.2에서 작성되었습니다
 ~~~
 {: .error}
 
@@ -1614,6 +1600,16 @@ Joining, by = "plot_id"
 > Joining, by = "species_id"
 > ~~~
 > {: .output}
+> 
+> 
+> 
+> ~~~
+> Warning: The `add` argument of `group_by()` is deprecated as of dplyr 1.0.0.
+> Please use the `.add` argument instead.
+> This warning is displayed once every 8 hours.
+> Call `lifecycle::last_warnings()` to see where this warning was generated.
+> ~~~
+> {: .error}
 > 
 > 
 > 
