@@ -39,7 +39,7 @@ root: .
 - [4월27일](https://hackmd.io/egpwvBybQ5GR0tWS-BqFCQ): 논문 및 데이터 과학 제품 공유
 - [5월04일](https://hackmd.io/Sxow-6j7SFalYFlG5iz_XA): NLP 특강자료 업로드됨!!!
 - [5월11일](https://hackmd.io/I4Y-CWKbQIWksAr9eJG0HQ): 팀별 멘토링
-- [5월18일]()
+- [5월18일](https://hackmd.io/sKSF5ZQMQnmvagz_EVR24g): `tidyverse` & `tidymodels`
 - [5월25일]()
 - [6월01일]()
 - [6월08일]()
