@@ -40,7 +40,7 @@ root: .
 - [5월04일](https://hackmd.io/Sxow-6j7SFalYFlG5iz_XA): NLP 특강자료 업로드됨!!!
 - [5월11일](https://hackmd.io/I4Y-CWKbQIWksAr9eJG0HQ): 팀별 멘토링
 - [5월18일](https://hackmd.io/sKSF5ZQMQnmvagz_EVR24g): `tidyverse` & `tidymodels`
-- [5월25일]()
+- [5월25일](https://hackmd.io/wMk1R_E4RKatr0kNeFrAOQ): `dplyr`
 - [6월01일]()
 - [6월08일]()
 - [6월15일]()
