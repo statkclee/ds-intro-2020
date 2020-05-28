@@ -41,7 +41,7 @@ root: .
 - [5월11일](https://hackmd.io/I4Y-CWKbQIWksAr9eJG0HQ): 팀별 멘토링
 - [5월18일](https://hackmd.io/sKSF5ZQMQnmvagz_EVR24g): `tidyverse` & `tidymodels`
 - [5월25일](https://hackmd.io/wMk1R_E4RKatr0kNeFrAOQ): `dplyr`
-- [6월01일]()
+- [6월01일](https://hackmd.io/eujIZMzrT-SW7RxRNne7Qg): 한글깨짐방지, 대쉬보드
 - [6월08일]()
 - [6월15일]()
 - [6월22일](): 프로젝트 발표
