@@ -42,8 +42,8 @@ root: .
 - [5월18일](https://hackmd.io/sKSF5ZQMQnmvagz_EVR24g): `tidyverse` & `tidymodels`
 - [5월25일](https://hackmd.io/wMk1R_E4RKatr0kNeFrAOQ): `dplyr`
 - [6월01일](https://hackmd.io/eujIZMzrT-SW7RxRNne7Qg): 한글깨짐방지, 대쉬보드
-- [6월08일]()
-- [6월15일]()
+- [6월08일](https://hackmd.io/UTEGveuLTJOaXHM1rWziYQ): `reticulate` 통계검정과 모형
+- [6월15일](): 범주형 데이터
 - [6월22일](): 프로젝트 발표
 
 ## 프로젝트
