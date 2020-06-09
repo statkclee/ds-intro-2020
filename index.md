@@ -43,19 +43,36 @@ root: .
 - [5월25일](https://hackmd.io/wMk1R_E4RKatr0kNeFrAOQ): `dplyr`
 - [6월01일](https://hackmd.io/eujIZMzrT-SW7RxRNne7Qg): 한글깨짐방지, 대쉬보드
 - [6월08일](https://hackmd.io/UTEGveuLTJOaXHM1rWziYQ): `reticulate` 통계검정과 모형
-- [6월15일](): 범주형 데이터
+- [6월15일](https://hackmd.io/jX0ZGKhpSvu52Juu7jvs5Q): 범주형 데이터
 - [6월22일](): 프로젝트 발표
 
 ## 프로젝트
 
-- [코뿔소(코로나에 뿔난 소시민)](https://github.com/unks96/rhino)
-    - [이재상](https://github.com/jaesanglee95), [정권상](https://github.com/unks96), [손지우](https://github.com/SonJiwoo), [서경덕](https://github.com/Gyeongdeok), [이현탁](https://github.com/11aw1iet)
+- [코뿔소](https://github.com/unks96/rhino)
+    - [이재상](https://github.com/jaesanglee95): [블로그]()/[Resume]()
+    - [정권상](https://github.com/unks96): [블로그]()/[Resume]() 
+    - [손지우](https://github.com/SonJiwoo): [블로그]()/[Resume]()
+    - [서경덕](https://github.com/Gyeongdeok): [블로그]()/[Resume]() 
+    - [이현탁](https://github.com/11aw1iet): [블로그]()/[Resume]()
 - [사응일간](https://github.com/YooGunWook/1nurse4stat)
-    - [강동원](https://github.com/dw3624), [백원희](https://github.com/Wonhee-baek), [오태환](https://github.com/dhxoghks95), [유건욱](https://github.com/YooGunwook), [이청파](https://github.com/leechungpa)
+    - [강동원](https://github.com/dw3624): [블로그]()/[Resume]() 
+    - [백원희](https://github.com/Wonhee-baek): [블로그]()/[Resume]()
+    - [오태환](https://github.com/dhxoghks95): [블로그]()/[Resume]()
+    - [유건욱](https://github.com/YooGunwook): [블로그]()/[Resume]()
+    - [이청파](https://github.com/leechungpa): [블로그]()/[Resume]()
 - [골든타임](https://github.com/twg12/IntroToDataScience_5)
-    - [손지현](https://github.com/twg12), [이시우](https://github.com/SeewooLi), [서아론](https://github.com/arnsu0820), [박경재](https://github.com/Hankpkj), [정윤호](https://github.com/YoonHoJeong), 조병준
+    - [손지현](https://github.com/twg12): [블로그]()/[Resume]()
+    - [이시우](https://github.com/SeewooLi): [블로그]()/[Resume]()
+    - [서아론](https://github.com/arnsu0820): [블로그]()/[Resume]()
+    - [박경재](https://github.com/Hankpkj): [블로그]()/[Resume]()
+    - [정윤호](https://github.com/YoonHoJeong): [블로그]()/[Resume]()
+    - 조병준: [블로그]()/[Resume]()
 - [Project Casa](https://github.com/whoareyouwhoami/ProjectCasa)
-    - [이형선](https://github.com/traceofpassion), [김채형](https://github.com//cheris8), [조유림](https://github.com//whdbfla6), [주용우](https://github.com/whoareyouwhoami), [양정열](https://github.com/passionyang16)
+    - [이형선](https://github.com/traceofpassion): [블로그]()/[Resume]()
+    - [김채형](https://github.com//cheris8): [블로그]()/[Resume]()
+    - [조유림](https://github.com//whdbfla6): [블로그]()/[Resume]()
+    - [주용우](https://github.com/whoareyouwhoami): [블로그]()/[Resume]()
+    - [양정열](https://github.com/passionyang16): [블로그]()/[Resume]()
 
 > ## 선수과목
 >
