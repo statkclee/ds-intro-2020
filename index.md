@@ -59,7 +59,7 @@ root: .
     - [백원희](https://github.com/Wonhee-baek): [블로그]()/[Resume]()
     - [오태환](https://github.com/dhxoghks95): [블로그]()/[Resume]()
     - [유건욱](https://github.com/YooGunwook): [블로그]()/[Resume]()
-    - [이청파](https://github.com/leechungpa): [블로그]()/[Resume]()
+    - [이청파](https://github.com/leechungpa): [블로그](https://leechungpa.netlify.app/)/[Resume](https://leechungpa.netlify.app/about/)
 - [골든타임](https://github.com/twg12/IntroToDataScience_5)
     - [손지현](https://github.com/twg12): [블로그]()/[Resume]()
     - [이시우](https://github.com/SeewooLi): [블로그]()/[Resume]()
