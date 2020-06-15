@@ -62,7 +62,7 @@ root: .
     - [이청파](https://github.com/leechungpa): [블로그](https://leechungpa.netlify.app/)/[Resume](https://leechungpa.netlify.app/about/)
 - [골든타임](https://github.com/twg12/IntroToDataScience_5)
     - [손지현](https://github.com/twg12): [블로그]()/[Resume]()
-    - [이시우](https://github.com/SeewooLi): [블로그]()/[Resume]()
+    - [이시우](https://github.com/SeewooLi): [블로그](https://festive-visvesvaraya-5a38c3.netlify.app/)/[Resume](https://pedantic-easley-43a195.netlify.app/)
     - [서아론](https://github.com/arnsu0820): [블로그]()/[Resume]()
     - [박경재](https://github.com/Hankpkj): [블로그]()/[Resume]()
     - [정윤호](https://github.com/YoonHoJeong): [블로그]()/[Resume]()
