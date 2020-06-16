@@ -72,7 +72,7 @@ root: .
     - [김채형](https://github.com//cheris8): [블로그]()/[Resume]()
     - [조유림](https://github.com//whdbfla6): [블로그]()/[Resume]()
     - [주용우](https://github.com/whoareyouwhoami): [블로그]()/[Resume]()
-    - [양정열](https://github.com/passionyang16): [블로그]()/[Resume]()
+    - [양정열](https://github.com/passionyang16): [블로그](https://passionyang16.netlify.app/)/[Resume](https://passionyang16.netlify.app/2020/06/01/resume/)
 
 > ## 선수과목
 >
