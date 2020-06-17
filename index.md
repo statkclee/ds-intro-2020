@@ -51,7 +51,7 @@ root: .
 - [코뿔소](https://github.com/unks96/rhino)
     - [이재상](https://github.com/jaesanglee95): [블로그]()/[Resume]()
     - [정권상](https://github.com/unks96): [블로그]()/[Resume]() 
-    - [손지우](https://github.com/SonJiwoo): [블로그]()/[Resume]()
+    - [손지우](https://github.com/SonJiwoo): [블로그](https://sonjiwoo-blog.netlify.app/)/[Resume](https://sonjiwoo-blog.netlify.app/2020/06/01/%EC%9D%B4%EB%A0%A5%EC%84%9C/)
     - [서경덕](https://github.com/Gyeongdeok): [블로그]()/[Resume]() 
     - [이현탁](https://github.com/11aw1iet): [블로그](https://leehyeontak-blog.netlify.app/)/[Resume]()
 - [사응일간](https://github.com/YooGunWook/1nurse4stat)
