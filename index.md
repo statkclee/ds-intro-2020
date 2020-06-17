@@ -70,7 +70,7 @@ root: .
 - [Project Casa](https://github.com/whoareyouwhoami/ProjectCasa)
     - [이형선](https://github.com/traceofpassion): [블로그](https://shironmaro.netlify.app/)/[Resume](https://github.com/traceofpassion/Resume/raw/master/Resume_PDF.pdf)
     - [김채형](https://github.com//cheris8): [블로그]()/[Resume]()
-    - [조유림](https://github.com//whdbfla6): [블로그]()/[Resume]()
+    - [조유림](https://github.com//whdbfla6): [블로그](https://focused-elion-b6663c.netlify.app/)/[Resume](https://github.com/whdbfla6/personal_blog/raw/master/content/post/resume_vitae_form.pdf)
     - [주용우](https://github.com/whoareyouwhoami): [블로그]()/[Resume]()
     - [양정열](https://github.com/passionyang16): [블로그]()/[Resume]()
 
