@@ -57,7 +57,7 @@ root: .
 - [사응일간](https://github.com/YooGunWook/1nurse4stat)
     - [강동원](https://github.com/dw3624): [블로그]()/[Resume]() 
     - [백원희](https://github.com/Wonhee-baek): [블로그]()/[Resume]()
-    - [오태환](https://github.com/dhxoghks95): [블로그]()/[Resume]()
+    - [오태환](https://github.com/dhxoghks95): [블로그](https://ohdata.netlify.app/)/[Resume](https://ohdata.netlify.app/about/)
     - [유건욱](https://github.com/YooGunwook): [블로그]()/[Resume]()
     - [이청파](https://github.com/leechungpa): [블로그](https://leechungpa.netlify.app/)/[Resume](https://leechungpa.netlify.app/about/)
 - [골든타임](https://github.com/twg12/IntroToDataScience_5)
