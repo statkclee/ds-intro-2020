@@ -71,7 +71,7 @@ root: .
     - [이형선](https://github.com/traceofpassion): [블로그](https://shironmaro.netlify.app/)/[Resume](https://github.com/traceofpassion/Resume/raw/master/Resume_PDF.pdf)
     - [김채형](https://github.com//cheris8): [블로그]()/[Resume]()
     - [조유림](https://github.com//whdbfla6): [블로그]()/[Resume]()
-    - [주용우](https://github.com/whoareyouwhoami): [블로그]()/[Resume]()
+    - [주용우](https://github.com/whoareyouwhoami): [블로그](https://whoareyouwhoami.netlify.app/)/[Resume](https://whoareyouwhoami-resume.netlify.app/)
     - [양정열](https://github.com/passionyang16): [블로그](https://passionyang16.netlify.app/)/[Resume](https://passionyang16.netlify.app/2020/06/01/resume/)
 
 > ## 선수과목
