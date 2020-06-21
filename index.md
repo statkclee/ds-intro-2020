@@ -44,7 +44,7 @@ root: .
 - [6월01일](https://hackmd.io/eujIZMzrT-SW7RxRNne7Qg): 한글깨짐방지, 대쉬보드
 - [6월08일](https://hackmd.io/UTEGveuLTJOaXHM1rWziYQ): `reticulate` 통계검정과 모형
 - [6월15일](https://hackmd.io/jX0ZGKhpSvu52Juu7jvs5Q): 범주형 데이터
-- [6월22일](): 프로젝트 발표
+- [6월22일](https://hackmd.io/H5W3CLWsQfa6ae3oclUL8Q): 프로젝트 발표
 
 ## 프로젝트
 
