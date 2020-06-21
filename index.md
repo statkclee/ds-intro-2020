@@ -44,18 +44,18 @@ root: .
 - [6월01일](https://hackmd.io/eujIZMzrT-SW7RxRNne7Qg): 한글깨짐방지, 대쉬보드
 - [6월08일](https://hackmd.io/UTEGveuLTJOaXHM1rWziYQ): `reticulate` 통계검정과 모형
 - [6월15일](https://hackmd.io/jX0ZGKhpSvu52Juu7jvs5Q): 범주형 데이터
-- [6월22일](): 프로젝트 발표
+- [6월22일](https://hackmd.io/H5W3CLWsQfa6ae3oclUL8Q): 프로젝트 발표
 
 ## 프로젝트
 
 - [코뿔소](https://github.com/unks96/rhino)
     - [이재상](https://github.com/jaesanglee95): [블로그]()/[Resume]()
     - [정권상](https://github.com/unks96): [블로그](https://statkwon.netlify.app/)/[Resume](https://statkwon.netlify.app/resume/) 
-    - [손지우](https://github.com/SonJiwoo): [블로그]()/[Resume]()
+    - [손지우](https://github.com/SonJiwoo): [블로그](https://sonjiwoo-blog.netlify.app/)/[Resume](https://sonjiwoo-blog.netlify.app/resume/)
     - [서경덕](https://github.com/Gyeongdeok): [블로그](https://gyeongdeok.netlify.app/)/[Resume](https://gyeongdeok.netlify.app/about/) 
-    - [이현탁](https://github.com/11aw1iet): [블로그](https://leehyeontak-blog.netlify.app/)/[Resume]()
+    - [이현탁](https://github.com/11aw1iet): [블로그](https://leehyeontak-blog.netlify.app/)/[Resume](https://leehyeontak-blog.netlify.app/about/)
 - [사응일간](https://github.com/YooGunWook/1nurse4stat)
-    - [강동원](https://github.com/dw3624): [블로그]()/[Resume]() 
+    - [강동원](https://github.com/dw3624): [블로그](https://tejava.netlify.app/)/[Resume](https://tejava.netlify.app/about/) 
     - [백원희](https://github.com/Wonhee-baek): [블로그]()/[Resume]()
     - [오태환](https://github.com/dhxoghks95): [블로그](https://ohdata.netlify.app/)/[Resume](https://ohdata.netlify.app/about/)
     - [유건욱](https://github.com/YooGunwook): [블로그](https://gunwookblog.netlify.app/)/[Resume](https://gunwookblog.netlify.app/about/)
