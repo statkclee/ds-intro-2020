@@ -53,7 +53,7 @@ root: .
     - [정권상](https://github.com/unks96): [블로그](https://statkwon.netlify.app/)/[Resume](https://statkwon.netlify.app/resume/) 
     - [손지우](https://github.com/SonJiwoo): [블로그]()/[Resume]()
     - [서경덕](https://github.com/Gyeongdeok): [블로그]()/[Resume]() 
-    - [이현탁](https://github.com/11aw1iet): [블로그](https://leehyeontak-blog.netlify.app/)/[Resume]()
+    - [이현탁](https://github.com/11aw1iet): [블로그](https://leehyeontak-blog.netlify.app/)/[Resume](https://leehyeontak-blog.netlify.app/about/)
 - [사응일간](https://github.com/YooGunWook/1nurse4stat)
     - [강동원](https://github.com/dw3624): [블로그]()/[Resume]() 
     - [백원희](https://github.com/Wonhee-baek): [블로그]()/[Resume]()
