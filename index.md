@@ -65,7 +65,7 @@ root: .
     - [이시우](https://github.com/SeewooLi): [블로그](https://festive-visvesvaraya-5a38c3.netlify.app/)/[Resume](https://pedantic-easley-43a195.netlify.app/)
     - [서아론](https://github.com/arnsu0820): [블로그](https://arnsu0820.netlify.app/)/[Resume](https://arnsu0820.netlify.app/about/)
     - [박경재](https://github.com/Hankpkj): [블로그]()/[Resume]()
-    - [정윤호](https://github.com/YoonHoJeong): [블로그]()/[Resume]()
+    - [정윤호](https://github.com/YoonHoJeong): [블로그](https://ds-uno-blog.netlify.app/)/[Resume](https://ds-uno-blog.netlify.app/about/)
     - [조병준](https://github.com/joahn-lab): [블로그](https://joahn-lab.netlify.app/)/[Resume](https://joahn-lab.netlify.app/resume/)
 - [Project Casa](https://github.com/whoareyouwhoami/ProjectCasa)
     - [이형선](https://github.com/traceofpassion): [블로그](https://shironmaro.netlify.app/)/[Resume](https://github.com/traceofpassion/Resume/raw/master/Resume_PDF.pdf)
