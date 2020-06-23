@@ -49,7 +49,7 @@ root: .
 ## 프로젝트
 
 - [코뿔소](https://github.com/unks96/rhino)
-    - [이재상](https://github.com/jaesanglee95): [블로그]()/[Resume]()
+    - [이재상](https://github.com/jaesanglee95): [블로그](https://jay95.netlify.app/)/[Resume](https://github.com/jaesanglee95/Jay95_blog/raw/master/content/Resume_jay.pdf)
     - [정권상](https://github.com/unks96): [블로그](https://statkwon.netlify.app/)/[Resume](https://statkwon.netlify.app/resume/) 
     - [손지우](https://github.com/SonJiwoo): [블로그](https://sonjiwoo-blog.netlify.app/)/[Resume](https://sonjiwoo-blog.netlify.app/resume/)
     - [서경덕](https://github.com/Gyeongdeok): [블로그](https://gyeongdeok.netlify.app/)/[Resume](https://gyeongdeok.netlify.app/about/) 
