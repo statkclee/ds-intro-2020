@@ -48,31 +48,32 @@ root: .
 
 ## 프로젝트
 
-- [코뿔소](https://github.com/unks96/rhino)
+- [Project Casa](https://github.com/whoareyouwhoami/ProjectCasa): [**발표 동영상**](https://youtu.be/NOWKq9fC2Ek)
+    - [이형선](https://github.com/traceofpassion): [블로그](https://shironmaro.netlify.app/)/[Resume](https://github.com/traceofpassion/Resume/raw/master/Resume_PDF.pdf)
+    - [김채형](https://github.com//cheris8): [블로그](https://angry-mcclintock-57383e.netlify.app)/[Resume](https://github.com/cheris8/Resume.git/Resume.pdf)
+    - [조유림](https://github.com//whdbfla6): [블로그](https://focused-elion-b6663c.netlify.app/)/[Resume](https://focused-elion-b6663c.netlify.app/2020/06/05/resume/)
+    - [주용우](https://github.com/whoareyouwhoami): [블로그](https://whoareyouwhoami.netlify.app/)/[Resume](https://whoareyouwhoami-resume.netlify.app/)
+    - [양정열](https://github.com/passionyang16): [블로그](https://passionyang16.netlify.app/)/[Resume](https://passionyang16.netlify.app/2020/06/01/resume/)
+- [코뿔소](https://github.com/unks96/rhino): [**발표 동영상**](https://youtu.be/bUVpoOivSAY)
     - [이재상](https://github.com/jaesanglee95): [블로그](https://jay95.netlify.app/)/[Resume](https://github.com/jaesanglee95/Jay95_blog/raw/master/content/Resume_jay.pdf)
     - [정권상](https://github.com/unks96): [블로그](https://statkwon.netlify.app/)/[Resume](https://statkwon.netlify.app/resume/) 
     - [손지우](https://github.com/SonJiwoo): [블로그](https://sonjiwoo-blog.netlify.app/)/[Resume](https://sonjiwoo-blog.netlify.app/resume/)
     - [서경덕](https://github.com/Gyeongdeok): [블로그](https://gyeongdeok.netlify.app/)/[Resume](https://gyeongdeok.netlify.app/about/) 
     - [이현탁](https://github.com/11aw1iet): [블로그](https://leehyeontak-blog.netlify.app/)/[Resume](https://leehyeontak-blog.netlify.app/about/)
-- [사응일간](https://github.com/YooGunWook/1nurse4stat)
+- [사응일간](https://github.com/YooGunWook/1nurse4stat): [**발표 동영상**](https://youtu.be/7XH0AdOEb4w)
     - [강동원](https://github.com/dw3624): [블로그](https://tejava.netlify.app/)/[Resume](https://tejava.netlify.app/about/) 
     - [백원희](https://github.com/Wonhee-baek): [블로그]()/[Resume]()
     - [오태환](https://github.com/dhxoghks95): [블로그](https://ohdata.netlify.app/)/[Resume](https://ohdata.netlify.app/about/)
     - [유건욱](https://github.com/YooGunwook): [블로그](https://gunwookblog.netlify.app/)/[Resume](https://gunwookblog.netlify.app/about/)
     - [이청파](https://github.com/leechungpa): [블로그](https://leechungpa.netlify.app/)/[Resume](https://leechungpa.netlify.app/about/)
-- [골든타임](https://github.com/twg12/IntroToDataScience_5)
+- [골든타임](https://github.com/twg12/IntroToDataScience_5): [**발표 동영상**](https://youtu.be/LPVyY-vRYSM)
     - [손지현](https://github.com/twg12): [블로그]()/[Resume]()
     - [이시우](https://github.com/SeewooLi): [블로그](https://festive-visvesvaraya-5a38c3.netlify.app/)/[Resume](https://pedantic-easley-43a195.netlify.app/)
     - [서아론](https://github.com/arnsu0820): [블로그](https://arnsu0820.netlify.app/)/[Resume](https://arnsu0820.netlify.app/about/)
     - [박경재](https://github.com/Hankpkj): [블로그]()/[Resume]()
     - [정윤호](https://github.com/YoonHoJeong): [블로그](https://ds-uno-blog.netlify.app/)/[Resume](https://ds-uno-blog.netlify.app/about/)
     - [조병준](https://github.com/joahn-lab): [블로그](https://joahn-lab.netlify.app/)/[Resume](https://joahn-lab.netlify.app/resume/)
-- [Project Casa](https://github.com/whoareyouwhoami/ProjectCasa)
-    - [이형선](https://github.com/traceofpassion): [블로그](https://shironmaro.netlify.app/)/[Resume](https://github.com/traceofpassion/Resume/raw/master/Resume_PDF.pdf)
-    - [김채형](https://github.com//cheris8): [블로그](https://angry-mcclintock-57383e.netlify.app)/[Resume](https://github.com/cheris8/Resume.git/Resume.pdf)
-    - [조유림](https://github.com//whdbfla6): [블로그](https://focused-elion-b6663c.netlify.app/)/[Resume](https://focused-elion-b6663c.netlify.app/2020/06/05/resume/)
-    - [주용우](https://github.com/whoareyouwhoami): [블로그](https://whoareyouwhoami.netlify.app/)/[Resume](https://whoareyouwhoami-resume.netlify.app/)
-    - [양정열](https://github.com/passionyang16): [블로그](https://passionyang16.netlify.app/)/[Resume](https://passionyang16.netlify.app/2020/06/01/resume/)
+
 
 > ## 선수과목
 >
